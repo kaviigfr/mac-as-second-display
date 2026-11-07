@@ -1,0 +1,8 @@
+bin/
+obj/
+publish/
+*.exe
+*.bak
+*.log
+viewer
+*.app
